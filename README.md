@@ -1,5 +1,6 @@
 ## Olá, eu sou Ludmila Reis, estudante de programação e amante de tecnologia ☕ 
-https://web.digitalinnovation.one/users/ludmila_creiis?tab=achievements
+Bem vindo(a) ao meu perfil!
+[connect](https://web.digitalinnovation.one/users/ludmila_creiis?tab=achievements)
 
 <div align="center">
   <a href="https://github.com/LudmilaReis">
