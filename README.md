@@ -1,4 +1,4 @@
-## Olá, eu sou Ludmila Reis estudante de programação e amante de tecnologia ☕ 
+## Olá, eu sou Ludmila Reis, estudante de programação e amante de tecnologia ☕ 
 
 
 <div align="center">
