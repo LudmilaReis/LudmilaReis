@@ -1,5 +1,5 @@
 ## Olá, eu sou Ludmila Reis, estudante de programação e amante de tecnologia ☕ 
-
+https://web.digitalinnovation.one/users/ludmila_creiis?tab=achievements
 
 <div align="center">
   <a href="https://github.com/LudmilaReis">
@@ -30,4 +30,7 @@
   ![Snake animation](https://github.com/LudmilaReis/LudmilaReis/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+  Obridada pela visita, volte sempre!😉	
+  
+  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=LudmilaReis.visitor-badge)
 
