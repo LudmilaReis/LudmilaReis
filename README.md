@@ -31,7 +31,7 @@ Bem vindo(a) ao meu perfil!
   ![Snake animation](https://github.com/LudmilaReis/LudmilaReis/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-  Obridada pela visita, volte sempre!😉	
+  Obrigada pela visita, volte sempre!😉	
   
   ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=LudmilaReis.visitor-badge)
 
